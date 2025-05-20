@@ -133,6 +133,21 @@
       .cards {
         grid-template-columns: 1fr;
       }
+
+.hero-logo {
+  height: 250px;
+  max-width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 350px) {
+  .hero-logo {
+    height: 200px;
+  }
+}
+}
+
 </style>
 </head>
 <body>
@@ -148,7 +163,7 @@
   </nav>
 
   <header class="hero">
-    <img src="logo.png" alt="Logo Ostéou" class="logo-menu">
+    <img src="logo.png" alt="Logo Ostéou" class="hero-logo">
     <h1>Prise en charge ostéopathique du nourrisson à l’adulte.</h1>
  <h1>Votre bien être en mains</h1>
     <p>Joanne Salhab, Ostéopathe D.O. – Spécialisée en ostéopathie crânienne, viscérale, gynécologique et musculo-squelettique</p>
