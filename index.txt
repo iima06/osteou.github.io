@@ -6,7 +6,7 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>Ostéou – Ostéopathie douce à Cannes</title>
-<meta content="Joanne Salhab – Ostéou - Ostéopathe à Cannes pour bébés, femmes enceintes et adultes. Approche douce, spécialisée en périnatalité. Meilleur ostéopathe. Prise de rendez-vous rapide." name="description"/>
+<meta content="Joanne Salhab – Ostéou - Ostéopathe à Cannes pour enfants, femmes enceintes et adultes. Approche douce, spécialisée en périnatalité. Meilleur ostéopathe. Prise de rendez-vous rapide." name="description"/>
 <link href="https://www.ostéou.com/" rel="canonical"/>
 <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&amp;display=swap" rel="stylesheet"/>
 <style>
@@ -298,16 +298,12 @@ body {
 <section id="apropos">
 <h2>À propos de mon approche</h2>
 <p>Diplômée de l’école d’ostéopathie Atman en 2015, je pratique une ostéopathie holistique centrée sur l’écoute, le respect du corps et la globalité de chaque patient. Chaque consultation commence par une véritable rencontre : comprendre votre histoire, votre parcours médical, vos ressentis.</p>
-<p>Spécialisée en périnatalité, j’accompagne les nourrissons pour des troubles tels que plagiocéphalie, reflux, coliques, torticolis, troubles de la succion ou du sommeil. J’interviens aussi auprès des adultes et seniors pour les douleurs articulaires, migraines, vertiges, troubles digestifs fonctionnels, douleurs chroniques, et plus encore.</p>
+<p>J’interviens auprès des enfants, adultes et seniors pour les douleurs articulaires, migraines, vertiges, troubles digestifs fonctionnels, douleurs chroniques, et plus encore.</p>
 <p>Je respecte scrupuleusement les signaux d’alerte médicaux (red flags) et oriente mes patients vers un médecin si une pathologie nécessitant un diagnostic médical est suspectée. La prise en charge ostéopathique ne se substitue pas à un suivi médical régulier.</p>
 </section>
 <section id="pourqui">
 <h2>Pour qui ? Pour quoi ?</h2>
 <div class="cards">
-<div class="card">
-<h3>👶 Nourrissons</h3>
-<p>Asymétrie faciale | Attitude en virgule | Canal lacrymal « bouché » | Coliques du nourrisson | Constipation | Déformations crâniennes | Déformations des pieds | Difficulté allaitement / troubles de la succion | Hyperextension | Hypertonie axiale | Hypotonie | Plagiocéphalie positionnelle | Pleurs inexpliqués | Reflux gastro-œsophagien | Torticolis</p>
-</div>
 <div class="card">
 <h3>🧍 Enfants &amp; Adultes</h3>
 <p>Douleurs articulaires et musculaires | Maux de dos | Migraines | Céphalées | Vertiges | Troubles digestifs | Stress | Fatigue | Troubles du sommeil | Douleurs chroniques post-traumatiques | Capsulite rétractile | Tendinites</p>
@@ -346,8 +342,7 @@ body {
 <p>Les ventouses sont posées de manière douce et contrôlée. Cette approche est utilisée <strong>en complément du traitement ostéopathique manuel</strong>, et toujours <strong>avec l’accord du patient</strong>.</p>
 <h3>Tarifs</h3>
 <ul>
-<li>Adultes : 60€</li>
-<li>Nourrissons et enfants : 40€</li>
+<li>Adultes et enfants : 60€</li>
 </ul>
 <h3>Pathologies prises en charge</h3>
 <p>Douleurs musculo-squelettiques, migraines, vertiges, troubles digestifs fonctionnels, troubles posturaux, douleurs tendineuses, troubles liés à la naissance chez les bébés…</p>
@@ -376,8 +371,6 @@ body {
 <p>Environ 45 minutes à 1 heure, selon votre motif de consultation.</p>
 <h3>📅 Combien de séances sont nécessaires ?</h3>
 <p>Parfois une seule suffit, parfois plusieurs séances espacées sont recommandées. Nous évaluons ensemble au cas par cas.</p>
-<h3>👶 Mon bébé peut-il bénéficier d'une séance ?</h3>
-<p>Oui, les séances pour nourrisson sont douces et adaptées. Exemples : plagiocéphalie, reflux, coliques, troubles du sommeil...</p>
 <h3>❓ Est-ce que l’ostéopathie fait mal ?</h3>
 <p>Non. L’ostéopathie que je pratique est respectueuse du corps, sans gestes brusques.</p>
 <h3>📝 Faut-il une ordonnance pour consulter ?</h3>
