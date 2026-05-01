@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xn--ostou-dsa.com/sitemap.xml
+Sitemap: https://osteou.com/sitemap.xml
